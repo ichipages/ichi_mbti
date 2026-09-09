@@ -2,7 +2,7 @@
 
 4つの軸（E/I・S/N・T/F・J/P）を測る、ブラウザだけで動く性格診断です。
 
-**▶ https://hellohello334.github.io/ichi_mbti/**
+**▶ https://ichipages.github.io/ichi_mbti/**
 
 ## 特徴
 
